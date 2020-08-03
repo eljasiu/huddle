@@ -83,7 +83,7 @@ button{
   margin-top: 2rem;
 }
 
-button:focus{
+button:hover{
   background-color: var(--violet);
   color: #fff;
   cursor: pointer;
